@@ -1,3 +1,3 @@
 # Sqlite
 
-A collection of Sqlite database for Movie
+A collection of Sqlite database for Movies
